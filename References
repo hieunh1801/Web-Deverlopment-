@@ -1,0 +1,11 @@
+Hướng dẫn học các công nghệ để làm Java web
+
+1. Front end 
+    - HTML5 : hiển thị trang web, bố cục
+    - CSS : làm cho trang web đẹp hơn
+    - JavaScrip : Làm web động
+    Một số framework cho front end hỗ trợ xây dựng trang web dễ dàng xây dựng hơn
+2. Back end hay phía Server-Side
+    - Java Sevlet and JSP 
+    - Database : SQL , MySQL, MongoDB
+    Các framework hỗ trợ Java : Spring, Hibernate, Maven
