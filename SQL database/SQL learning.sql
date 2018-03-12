@@ -45,3 +45,8 @@ SELECT * FROM Customers ORDER BY Country ASC, CustomerName DESC;
 
 
 ----------Insert into----------
+-- Cách 1 :
+INSERT INTO table_name (column1, column2, column3, ...) VALUES (value1, value2, value3, ...);
+-- Cách 2:
+INSERT INTO table_name VALUES (value1, value2, value3, ...);
+-- Chỉ cần thêm các thông tin cần có . Không nhất thiết phải thêm hết. Các ô trống mặc định là NULL
